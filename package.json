@@ -1,0 +1,15 @@
+{
+  "name": "plus-design-system",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tailwind build ./src/styles.css -c ./src/tailwind.config.js -o ./dist/plus-design-system-tailwind.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^1.1.2"
+  }
+}
