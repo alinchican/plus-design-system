@@ -603,6 +603,10 @@ video {
   height: auto;
 }
 
+html {
+  font-family: "Meta Serif", "Merriweather", serif;
+}
+
 .container {
   width: 100%;
 }
