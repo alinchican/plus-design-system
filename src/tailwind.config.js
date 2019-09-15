@@ -126,14 +126,14 @@ module.exports = {
         900: '#702459',
       },
 
-      "plus-primary-orange": "#FF5000",
-      "plus-primary-blue": "#00263E",
+      "brand-primary-orange": "#FF5000",
+      "brand-primary-blue": "#00263E",
 
-      "plus-secondary-red": "#c53030",
-      "plus-secondary-yellow": "#F8E81E",
-      "plus-secondary-blue": "#0D4DA1",
+      "brand-secondary-red": "#c53030",
+      "brand-secondary-yellow": "#F8E81E",
+      "brand-secondary-blue": "#0D4DA1",
 
-      "plus-gray": {
+      "brand-gray": {
         200: "#E1E4E6",
         400: "#AAAFB3",
         600: "#777A7D",
