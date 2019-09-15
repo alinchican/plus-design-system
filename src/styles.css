@@ -2,6 +2,7 @@
 
 html {
   @apply font-serif;
+  font-size: 10px;
 }
 
 @tailwind components;
