@@ -642,12 +642,12 @@ html {
 }
 
 a {
-  color: ;
+  color: #2c5282;
   text-decoration: underline;
 }
 
 a:hover {
-  color: ;
+  color: #3182ce;
 }
 
 .container {

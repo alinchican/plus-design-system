@@ -40,12 +40,12 @@ html {
 }
 
 a {
-  color: theme("colors.blue-800");
+  color: theme("colors.blue.800");
   text-decoration: underline;
 }
 
 a:hover {
-  color: theme("colors.blue-600");
+  color: theme("colors.blue.600");
 }
 
 @tailwind components;
